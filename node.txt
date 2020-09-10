@@ -499,6 +499,8 @@ ss://Y2hhY2hhMjAtaWV0Zjo5ODJGZXF2djlMQHNoYS1mcmEuMDEubnMzMzYyMjAueW95dS54eXo6MTA
 ss://Y2hhY2hhMjAtaWV0Zjo5ODJGZXF2djlMQHNoYS10cGUuMDEubnMyMjAyMTgueW95dS54eXo6MTAyODA=#%E4%B8%93%E7%BA%BF%2B%E4%B8%8A%E6%B5%B7-%E5%8F%B0%E6%B9%BE%2B01%2B%5B0.5%5D
 ss://Y2hhY2hhMjAtaWV0Zjo5ODJGZXF2djlMQHNoYS10cGUuMDIubnMxMDQwMzcueW95dS54eXo6MTAyODA=#%E4%B8%93%E7%BA%BF%2B%E4%B8%8A%E6%B5%B7-%E5%8F%B0%E6%B9%BE%2B02%2B%5B0.5%5D
 #YOYU+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
+ss://YWVzLTI1Ni1nY206Z29nb2dvZ28@la.gzhpxb.com:49101/#自建洛杉矶
+ss://YWVzLTI1Ni1nY206Z29nb2dvZ28@sg.gzhpxb.com:49101#自建新加坡
 #SS================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 #TROJAN================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 trojan://v2.qovoq.ml@ovo.jp.trojannb.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Linode
