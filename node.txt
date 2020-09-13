@@ -508,4 +508,6 @@ ss://YWVzLTI1Ni1nY206Z29nb2dvZ28@sg.gzhpxb.com:49101#自建新加坡
 trojan://v2.qovoq.ml@ovo.jp.trojannb.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Linode
 trojan://74bf9417@kanpian.jiebao.buzz:443?#TROJAN香港2
 trojan://zhenyu@riben.xxooplmm.com:443?#TROJAN日本
+trojan://9c71f0ba-3e5c-4f46-ba82-896baaeabf6f@usmedia.seetheworld.space:443#自建美国1
+trojan://97435f00-9e78-4ed4-a91a-318b5ce55dd4@usnode.seetheworld.space:443?#自建美国2
 #TROJAN================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
