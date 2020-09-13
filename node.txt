@@ -503,6 +503,10 @@ ss://Y2hhY2hhMjAtaWV0Zjo5ODJGZXF2djlMQHNoYS10cGUuMDIubnMxMDQwMzcueW95dS54eXo6MTA
 #YOYU+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 ss://YWVzLTI1Ni1nY206Z29nb2dvZ28@la.gzhpxb.com:49101/#自建洛杉矶
 ss://YWVzLTI1Ni1nY206Z29nb2dvZ28@sg.gzhpxb.com:49101#自建新加坡
+ss://YWVzLTI1Ni1jZmI6aDc4VDY0Ug@69.171.66.217:17394#香港BR-ss
+ss://YWVzLTI1Ni1jZmI6bXE1YjM@dual.iepl-sz-hk.init.tnc-inbound.cloud:16577/#🇭🇰 深港 IEPL 专线 2-0707
+ss://YWVzLTI1Ni1jZmI6ek5HSmpPalUwTURBNg@154.17.2.123:15118#🇺🇸 美国 CN2 2-0607
+ss://YWVzLTI1Ni1jZmI6cXcxMjM0NTY@173.82.136.156:16727#🇺🇸 美国 CN2-0603
 #SS================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 #TROJAN================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 trojan://v2.qovoq.ml@ovo.jp.trojannb.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Linode
