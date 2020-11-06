@@ -668,6 +668,7 @@ ss://YWVzLTI1Ni1jZmI6ek5HSmpPalUwTURBNg@154.17.2.123:15118#🇺🇸 美国 CN2 2
 ss://YWVzLTI1Ni1jZmI6cXcxMjM0NTY@173.82.136.156:16727#🇺🇸 美国 CN2-0603
 #SS================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
 #TROJAN================++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
+trojan://ef4fc07a-ee05-4a2f-9706-12f6249a33da@cm.nayun.xyz:27015?allowInsecure=1#%E6%97%A5%E6%9C%ACTrojan%20%E5%B9%BF%E7%A7%BB%E4%B8%AD%E8%BD%AC
 trojan://v2.qovoq.ml@ovo.jp.trojannb.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Linode
 trojan://74bf9417@kanpian.jiebao.buzz:443?#TROJAN香港2
 trojan://zhenyu@riben.xxooplmm.com:443?#TROJAN日本
