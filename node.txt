@@ -12,6 +12,12 @@ trojan://4080bae3-eac2-3e05-bede-b1522c2914bf@dmitlos.skiturbo.xyz:443?allowInse
 trojan://4080bae3-eac2-3e05-bede-b1522c2914bf@dmlosgia.skiturbo.xyz:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E7%BE%8E%E5%9B%BD%20D%20CN2GIA%EF%BC%88%E7%94%B5%E4%BF%A1%EF%BC%89
 #GIT单节点快
 #GIT自建★★★★★★★★★★★★★★★★★★★★+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++★★★★★★★★★★★★★★★★★★★★
+vmess://eyJhZGQiOiJrcjIubW9vYnQuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4YjVlMTE3Yy1lZDUxLTExZTgtYjQ3NC0wMDBkM2E4MGU3Y2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiLwn4ew8J+HtyBWMlJheS3lnJ/osarpn6nlm70yIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+vmess://eyJhZGQiOiJoazIubW9vYnQuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4YjVlMTE3Yy1lZDUxLTExZTgtYjQ3NC0wMDBkM2E4MGU3Y2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiLwn4et8J+HsCBWMlJheS3lnJ/osarpppnmuK8yIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+vmess://eyJhZGQiOiJrcjEubW9vYnQuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4YjVlMTE3Yy1lZDUxLTExZTgtYjQ3NC0wMDBkM2E4MGU3Y2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiLwn4ew8J+HtyBWMlJheS3lnJ/osarpn6nlm70xIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+vmess://eyJhZGQiOiJoazEubW9vYnQuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4YjVlMTE3Yy1lZDUxLTExZTgtYjQ3NC0wMDBkM2E4MGU3Y2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiLwn4et8J+HsCBWMlJheS3lnJ/osarpppnmuK8xIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdWNrZ2Z3ODk2NCFAMTkyLjY5Ljg5LjE0NTo5OTk/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%90%AC%E7%93%A6%E5%B7%A5SS-GIA-999
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdWNrZ2Z3ODk2NCFAMTkyLjY5Ljg5LjE0NTo0NDQ/#%F0%9F%87%BA%F0%9F%87%B8%20%E6%90%AC%E7%93%A6%E5%B7%A5SS-GIA-444%27
 vmess://eyJhZGQiOiJjMjZzMy5qYW1qYW1zLm5ldCIsImFpZCI6MCwiaWQiOiJkODRhZDYxOC0zOTE4LTQ5NmQtODllNi0wZThmYjRmNDllMGQiLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo2NzUwLCJwcyI6IuiHquW7ui1HRlctVVMiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 vmess://eyJhZGQiOiJ0ZWNoLmlub3J0aGdhdGUuY29tIiwiYWlkIjoyMzMsImhvc3QiOiIiLCJpZCI6ImI3NGE1ZTczLTQxMzgtNDk0My04OWM2LTdiOGUyMGExN2M5NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ub3J0aGdhdGUiLCJwb3J0Ijo0NDMsInBzIjoi6Ieq5bu6LW5vcnRoZ2F0ZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiJibG9nLmhvdHBvdGJlYXIuY2MiLCJhaWQiOjIzMywiaG9zdCI6ImJsb2cuaG90cG90YmVhci5jYyIsImlkIjoiMTFiNjc4NGItOTk3MC00NWM0LWEwOWYtZGY4MTgxODAyZjEwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YyIiwicG9ydCI6NDQzLCJwcyI6IuiHquW7ui1ibG9nIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
